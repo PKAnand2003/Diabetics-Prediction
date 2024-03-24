@@ -1,3 +1,3 @@
-# Diabetics-Prediction
+Diabetics-Prediction
 # Problem Statement
 
