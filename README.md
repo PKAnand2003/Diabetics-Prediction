@@ -1,3 +1,4 @@
+# AICTE - _VOIS for Tech Project
 # DIABETICS PREDICTION
 ## Problem Statement:
 i) Need for an accurate ML model to classify patients based on diabetes risk. <br>
